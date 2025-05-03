@@ -1,7 +1,8 @@
 
 # Hero Section with AI Regeneration
 
-A beautiful, interactive hero section component built with Next.js and Tailwind CSS. This project was created for the Vibe Coder Mini Challenge.
+A beautiful, interactive hero section component built with Next.js and Tailwind CSS Using V0 Ai tool. 
+This project was created for the Vibe Coder Mini Challenge.
 
 
 ## Features
@@ -26,7 +27,8 @@ A beautiful, interactive hero section component built with Next.js and Tailwind 
 ## Installation
 
 1. **Clone the repository**
-
 ```bash
-git clone 
-cd hero-section
+git clone https://github.com/Hosni10/Hero.git
+npm install
+npm run dev
+
